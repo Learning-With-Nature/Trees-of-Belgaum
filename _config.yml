@@ -4,7 +4,7 @@ title: "Empress Botanical Garden"
 description: "QR Code Enabled Directory of Tree Species at Empress Botanical Garden, Pune."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'Trees-of-Belgaum/'
+baseurl: '/Trees-of-Belgaum/'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
